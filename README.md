@@ -3,18 +3,15 @@
 
 # Cara Install
 > Ikuti command dibawah.
-
+``
+git clone https://github.com/mjoeyx/MJC-tgviews
 ```
-termux-setup-storage
 ```
-(Skip jika sudah)
-```
-cd /sdcard/download/MJC-tgviews
+cd MJC-tgviews
 ```
 ```
 python MJC-tgviews.py
 ```
-
 
 ## Fitur
 * Menambahkan Viewer dengan Cepat✅
