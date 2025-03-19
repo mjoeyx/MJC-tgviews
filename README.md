@@ -4,8 +4,15 @@
 # Cara Install
 > Ikuti command dibawah.
 
-```update&upgrade_pkg
-pkg update && pkg upgrade
+```
+termux-setup-storage
+```
+(Skip jika sudah)
+```
+cd /sdcard/download/MJC-tgviews
+```
+```
+python MJC-tgviews.py
 ```
 
 
