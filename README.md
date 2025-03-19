@@ -1,11 +1,11 @@
-# Kali Linux on Termux 
+# Viewer Boost on Termux 
 > script ini untuk menambahkan jumlah Viewers pada Postingan Channel(Publik) di Telegram.
 
 # Cara Install
 > cukup hanya copy dan paste command dibawah pada termux.
 
 ```command
-curl -sSL https://raw.githubusercontent.com/mjoeyx/MJC-tgviews/main/MJC-tgviews | python
+curl -sSL https://raw.githubusercontent.com/mjoeyx/MJC-tgviews/main/MJC-tgviews.py | python
 ```
 
 ## Fitur
