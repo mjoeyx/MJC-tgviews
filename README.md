@@ -2,8 +2,7 @@
 > script ini untuk menambahkan jumlah Viewers pada Postingan Channel(Publik) di Telegram.
 
 # Cara Install
-> Ikuti command dibawah.
-``
+```
 git clone https://github.com/mjoeyx/MJC-tgviews
 ```
 ```
