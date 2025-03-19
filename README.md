@@ -5,7 +5,8 @@
 > Ikuti command dibawah.
 
 ```update&upgrade_pkg
-pkg update && pkg upgrade```
+pkg update && pkg upgrade
+```
 
 
 ## Fitur
