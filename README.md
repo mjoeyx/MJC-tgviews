@@ -5,7 +5,7 @@
 > cukup hanya copy dan paste command dibawah pada termux.
 
 ```command
-curl -sSL https://raw.githubusercontent.com/mjoeyx/MJC-tgviews/MJC-tgviews.py | python
+curl -sSL https://raw.githubusercontent.com/mjoeyx/MJC-tgviews.py | python
 ```
 
 ## Fitur
